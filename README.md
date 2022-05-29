@@ -5,6 +5,8 @@ Trailer script for FiveM, specifically designed to work with the "DOT Message Bo
 
 The script allows you to turn the sign on/off, rotate it, and change the message all from within your vehicle or while standing in front of it.
 
+[![TrafficTrailer FiveM Script demo](https://yt-embed.herokuapp.com/embed?v=CnITt9yT2ws)](https://www.youtube.com/watch?v=CnITt9yT2ws)
+
 ## Commands
 Enter these commands in the chat window.  All commands show a hint within the chat window to help you.
 
