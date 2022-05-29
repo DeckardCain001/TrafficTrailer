@@ -8,11 +8,11 @@ The script allows you to turn the sign on/off, rotate it, and change the message
 ## Commands
 Enter these commands in the chat window.  All commands show a hint within the chat window to help you.
 
--**/trrotate** - rotates the sign
--**/trsignon** - turns on the sign
--**/trsignoff** - turns off the sign
--**/trattach** - attach the trailer to your vehicle
--**/trsign1** to **/trsign12** - switch to the specified message *(will automatically turn on the sign if it's not already on)*
+- **/trrotate** - rotates the sign
+- **/trsignon** - turns on the sign
+- **/trsignoff** - turns off the sign
+- **/trattach** - attach the trailer to your vehicle
+- **/trsign1** to **/trsign12** - switch to the specified message *(will automatically turn on the sign if it's not already on)*
 
 ## Notes / Known Issues
 - When you have the sign rotated and switch to a different message (e.g. /trsign3), you'll see the animation for the sign rotating again after the message changes.  This is out of my control.  It has to do with how Extras are turned on & off when switching the message.
