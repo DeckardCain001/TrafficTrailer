@@ -1,4 +1,4 @@
-signs = {'Road Work Ahead', '<<<','>>>','Drive Safetly','Left Lane Closed','Accident Ahead','Click It or Ticket','Detour Ahead','Slow Moving Traffic','Right Lane Closed','Keep Left','Keep Right'}
+signs = {'Road Work Ahead', '<<<','>>>','Drive Safely','Left Lane Closed','Accident Ahead','Click It or Ticket','Detour Ahead','Slow Moving Traffic','Right Lane Closed','Keep Left','Keep Right'}
 
 Citizen.CreateThread(function()
     TriggerEvent('chat:addSuggestion', '/trrotate', 'Rotate trailer\'s sign')
