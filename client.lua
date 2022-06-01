@@ -19,7 +19,7 @@ function Notify(Text)
 end
 
 function GetTrailer()
-    local fromEntity = GetPlayerPed(-1)
+    local fromEntity = PlayerPedId()
     local from = GetEntityCoords(fromEntity)
     from = GetOffsetFromEntityInWorldCoords(fromEntity, 0.0, 0.0, -0.5)
     local multiplier = 1.0
@@ -34,7 +34,7 @@ function GetTrailer()
 
     for i = 1, #xCoordsToCheck do
         local to = GetOffsetFromEntityInWorldCoords(fromEntity, xCoordsToCheck[i], 10.0 * multiplier, 0)
-        local rayHandle = CastRayPointToPoint(from.x, from.y, from.z, to.x, to.y, to.z, 3, GetPlayerPed(-1), 0)
+        local rayHandle = CastRayPointToPoint(from.x, from.y, from.z, to.x, to.y, to.z, 3, PlayerPedId(), 0)
         local _, _, _, _, trailer = GetRaycastResult(rayHandle)
         if trailer ~= nil and trailer ~= 0 and trailer ~= 1 then
             return trailer
