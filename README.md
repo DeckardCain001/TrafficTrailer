@@ -1,11 +1,11 @@
 # TrafficTrailer
 Trailer script for FiveM, specifically designed to work with the "DOT Message Board Trailer" from Redneck Modifications.
 
-[DOT Message Board Trailer on RedneckMods.com](https://www.redneckmods.com/package/5045763)
+[DOT Message Board Trailer on RedneckMods.com](https://www.redneckmods.com/package/186)
 
 The script allows you to turn the sign on/off, rotate it, and change the message all from within your vehicle or while standing in front of it.
 
-[![TrafficTrailer FiveM Script demo](https://yt-embed.herokuapp.com/embed?v=CnITt9yT2ws)](https://www.youtube.com/watch?v=CnITt9yT2ws)
+[![TrafficTrailer FiveM Script demo](https://img.youtube.com/vi/CnITt9yT2ws/0.jpg)](https://www.youtube.com/watch?v=CnITt9yT2ws)
 
 ## Commands
 Enter these commands in the chat window.  All commands show a hint within the chat window to help you.
